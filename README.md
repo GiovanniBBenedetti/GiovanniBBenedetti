@@ -1,4 +1,4 @@
-## 👋 Olá, meu nome é Giovanni Benedetti
+## Olá, meu nome é Giovanni Benedetti
 
 Sou desenvolvedor web apaixonado por tecnologia, música e criação de soluções práticas. Aqui no meu GitHub, compartilho projetos pessoais, estudos e ideias que venho desenvolvendo ao longo da minha jornada como programador.
 
@@ -7,7 +7,7 @@ Sou desenvolvedor web apaixonado por tecnologia, música e criação de soluçõ
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## Tecnologias que utilizo
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
 
@@ -30,7 +30,7 @@ Sou desenvolvedor web apaixonado por tecnologia, música e criação de soluçõ
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=GiovanniBBenedetti&show_icons=true&theme=dark&hide_border=true" />
