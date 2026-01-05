@@ -1,7 +1,7 @@
 # Hello, I’m Giovanni Buscarino Benedetti
 
 ### About Me
-Hello! I’m a Junior Full Stack Developer focused on building modern, efficient, and secure solutions. I hold a degree in Systems Development and I am currently expanding my strategic and technical perspective by pursuing a degree as a Cybersecurity Technologist.
+I’m a Junior Full Stack Developer focused on building modern, efficient, and secure solutions. I hold a degree in Systems Development and I am currently expanding my strategic and technical perspective by pursuing a degree as a Cybersecurity Technologist.
 
 ---
 
