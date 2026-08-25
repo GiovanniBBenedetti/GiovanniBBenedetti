@@ -15,7 +15,7 @@ I’m a Junior Full Stack Developer focused on building modern, efficient, and s
 Let’s connect?
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/giovanni-buscarino-benedetti-7a92a9326/" target="_blank">
+  <a href="https://www.linkedin.com/in/giovannibuscarinobenedetti" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.giovannibenedetti.tech/" target="_blank">
