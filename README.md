@@ -5,7 +5,7 @@ I’m a Junior Full Stack Developer focused on building modern, efficient, and s
 
 ---
 
-## My Tech Stack
+## Development Tools
 
 | Frontend | Backend | Databases | Tools |
 | :--- | :--- | :--- | :--- |
