@@ -8,7 +8,7 @@
   </a>
 </p>
 
-### 📊 GitHub stats
+### GitHub stats
 
 <p align="center">
   <img height="165" src="./profile/stats.svg" alt="GitHub stats">
@@ -19,14 +19,43 @@
   <img src="https://streak-stats.demolab.com/?user=giovannibenedetti&hide_border=true&background=040914&ring=00aaff&fire=4da3ff&currStreakLabel=4da3ff&sideLabels=8cc4ff&currStreakNum=e1f2ff&sideNums=e1f2ff&dates=3e68a0&stroke=1f4e96&locale=pt_BR" alt="Sequência de contribuições">
 </p>
 
-### 🛠️ Stack
+### Stack
 
 <p align="center">
+  <b>Front-end</b><br>
+  <img src="https://img.shields.io/badge/React-040914?style=for-the-badge&logo=react&logoColor=4da3ff">
+  <img src="https://img.shields.io/badge/Next.js-040914?style=for-the-badge&logo=nextdotjs&logoColor=4da3ff">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-040914?style=for-the-badge&logo=tailwindcss&logoColor=4da3ff">
+</p>
+
+<p align="center">
+  <b>Back-end</b><br>
   <img src="https://img.shields.io/badge/Node.js-040914?style=for-the-badge&logo=nodedotjs&logoColor=4da3ff">
   <img src="https://img.shields.io/badge/Express-040914?style=for-the-badge&logo=express&logoColor=4da3ff">
   <img src="https://img.shields.io/badge/JWT-040914?style=for-the-badge&logo=jsonwebtokens&logoColor=4da3ff">
+</p>
+
+<p align="center">
+  <b>Banco de dados</b><br>
   <img src="https://img.shields.io/badge/MySQL-040914?style=for-the-badge&logo=mysql&logoColor=4da3ff">
   <img src="https://img.shields.io/badge/MongoDB-040914?style=for-the-badge&logo=mongodb&logoColor=4da3ff">
-  <img src="https://img.shields.io/badge/Next.js-040914?style=for-the-badge&logo=nextdotjs&logoColor=4da3ff">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-040914?style=for-the-badge&logo=tailwindcss&logoColor=4da3ff">
+</p>
+
+<p align="center">
+  <b>Ferramentas</b><br>
+  <img src="https://img.shields.io/badge/Git-040914?style=for-the-badge&logo=git&logoColor=4da3ff">
+  <img src="https://img.shields.io/badge/Docker-040914?style=for-the-badge&logo=docker&logoColor=4da3ff">
+  <img src="https://img.shields.io/badge/Figma-040914?style=for-the-badge&logo=figma&logoColor=4da3ff">
+  <img src="https://img.shields.io/badge/VS_Code-040914?style=for-the-badge&logoColor=4da3ff">
+</p>
+
+<p align="center">
+  <b>Segurança</b><br>
+  <img src="https://img.shields.io/badge/Linux-040914?style=for-the-badge&logo=linux&logoColor=4da3ff">
+  <img src="https://img.shields.io/badge/Bash-040914?style=for-the-badge&logo=gnubash&logoColor=4da3ff">
+  <img src="https://img.shields.io/badge/Python-040914?style=for-the-badge&logo=python&logoColor=4da3ff">
+  <img src="https://img.shields.io/badge/Kali_Linux-040914?style=for-the-badge&logo=kalilinux&logoColor=4da3ff">
+  <img src="https://img.shields.io/badge/Nmap-040914?style=for-the-badge&logoColor=4da3ff">
+  <img src="https://img.shields.io/badge/Wireshark-040914?style=for-the-badge&logo=wireshark&logoColor=4da3ff">
+  <img src="https://img.shields.io/badge/Burp_Suite-040914?style=for-the-badge&logo=burpsuite&logoColor=4da3ff">
 </p>
