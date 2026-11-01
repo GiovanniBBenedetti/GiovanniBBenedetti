@@ -14,16 +14,6 @@
   </a>
 </p>
 
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="./profile/stats.svg" alt="GitHub stats">
-  <img height="165" src="./profile/top-langs.svg" alt="Linguagens mais usadas">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=giovannibenedetti&hide_border=true&background=040914&ring=00aaff&fire=4da3ff&currStreakLabel=4da3ff&sideLabels=8cc4ff&currStreakNum=e1f2ff&sideNums=e1f2ff&dates=3e68a0&stroke=1f4e96&locale=pt_BR" alt="Sequência de contribuições">
-</p>
 
 ### Stack
 
