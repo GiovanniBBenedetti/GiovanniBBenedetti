@@ -7,7 +7,7 @@ Requer: Pillow e ffmpeg.
 import subprocess, sys
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-W, H, FPS = 900, 480, 30
+W, H, FPS = 900, 530, 30
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf"
 FONT_B = "/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf"
 f_txt = ImageFont.truetype(FONT, 17)
@@ -40,16 +40,18 @@ SCRIPT = [
     (1.4, "big", "Giovanni Benedetti"),
     (2.6, "out", [("  Desenvolvedor Full Stack Jr.", OUT, f_bold), ("  |  ", DIM, f_txt), ("Estudante de Cyber Security", ACC, f_txt)]),
     (3.6, "cmd", "cat stack.txt"),
-    (4.5, "out", [("  back   ", DIM, f_txt), ("›  ", ACC, f_txt), ("Node.js  ·  Express  ·  JWT", OUT, f_txt)]),
-    (4.8, "out", [("  dados  ", DIM, f_txt), ("›  ", ACC, f_txt), ("MySQL  ·  MongoDB", OUT, f_txt)]),
-    (5.1, "out", [("  front  ", DIM, f_txt), ("›  ", ACC, f_txt), ("Next.js  ·  Tailwind CSS", OUT, f_txt)]),
-    (6.0, "cmd", "./github --stats giovannibenedetti"),
-    (7.6, "bar", 2.0),
-    (10.0, "cmd", "open https://giovannibenedetti.tech"),
-    (11.7, "out", [("  ✔ ", ACC, f_bold), ("conexão segura estabelecida", OUT, f_txt)]),
-    (12.4, "cmd", ""),
+    (4.5, "out", [("  front  ", DIM, f_txt), ("›  ", ACC, f_txt), ("React  ·  Next.js  ·  Tailwind CSS", OUT, f_txt)]),
+    (4.8, "out", [("  back   ", DIM, f_txt), ("›  ", ACC, f_txt), ("Node.js  ·  Express  ·  JWT", OUT, f_txt)]),
+    (5.1, "out", [("  dados  ", DIM, f_txt), ("›  ", ACC, f_txt), ("MySQL  ·  MongoDB", OUT, f_txt)]),
+    (5.4, "out", [("  tools  ", DIM, f_txt), ("›  ", ACC, f_txt), ("Git  ·  Docker  ·  Figma  ·  VS Code", OUT, f_txt)]),
+    (5.7, "out", [("  sec    ", DIM, f_txt), ("›  ", ACC, f_txt), ("Linux · Bash · Python · Kali · Nmap · Wireshark · Burp Suite", OUT, f_txt)]),
+    (6.6, "cmd", "./github --stats giovannibenedetti"),
+    (8.2, "bar", 2.0),
+    (10.6, "cmd", "open https://giovannibenedetti.tech"),
+    (12.3, "out", [("  ✔ ", ACC, f_bold), ("conexão segura estabelecida", OUT, f_txt)]),
+    (13.0, "cmd", ""),
 ]
-DURATION = 16.0
+DURATION = 17.0
 
 def line_h(kind):
     return 44 if kind == "big" else 27
