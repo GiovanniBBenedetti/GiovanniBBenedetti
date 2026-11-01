@@ -6,6 +6,12 @@
   <a href="https://giovannibenedetti.tech">
     <img src="https://img.shields.io/badge/site-giovannibenedetti.tech-0aa3ff?style=for-the-badge&labelColor=040914" alt="Site">
   </a>
+  <a href="https://www.linkedin.com/in/giovannibuscarinobenedetti">
+    <img src="https://img.shields.io/badge/LinkedIn-giovannibuscarinobenedetti-0aa3ff?style=for-the-badge&logo=linkedin&logoColor=4da3ff&labelColor=040914" alt="LinkedIn">
+  </a>
+  <a href="mailto:gbuscarinobenedetti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gbuscarinobenedetti@gmail.com-0aa3ff?style=for-the-badge&logo=gmail&logoColor=4da3ff&labelColor=040914" alt="Email">
+  </a>
 </p>
 
 ### GitHub stats
