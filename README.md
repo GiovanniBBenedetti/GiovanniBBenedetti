@@ -1,41 +1,32 @@
-# Hello, I’m Giovanni Buscarino Benedetti
-
-### About Me
-I’m a Junior Full Stack Developer focused on building modern, efficient, and secure solutions. I hold a degree in Systems Development and I am currently expanding my strategic and technical perspective by pursuing a degree as a Cybersecurity Technologist.
-
----
-
-## Development Tools
-
-| Frontend | Backend | Databases | Tools |
-| :--- | :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,express" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=git,docker,figma,vscode" /> |
-
----
-
-## Security Tools
-
-<img src="https://skillicons.dev/icons?i=linux,bash,python" />
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<p align="center">
+  <img src="assets/terminal.gif" alt="Giovanni Benedetti — Desenvolvedor Full Stack Jr. | Estudante de Cyber Security" width="100%">
 </p>
 
----
+<p align="center">
+  <a href="https://giovannibenedetti.tech">
+    <img src="https://img.shields.io/badge/site-giovannibenedetti.tech-0aa3ff?style=for-the-badge&labelColor=040914" alt="Site">
+  </a>
+</p>
 
-Let’s connect?
+### 📊 GitHub stats
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/giovannibuscarinobenedetti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.giovannibenedetti.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-  <a href="mailto:gbuscarinobenedetti@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats">
+  <img height="165" src="./profile/top-langs.svg" alt="Linguagens mais usadas">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=giovannibenedetti&hide_border=true&background=040914&ring=00aaff&fire=4da3ff&currStreakLabel=4da3ff&sideLabels=8cc4ff&currStreakNum=e1f2ff&sideNums=e1f2ff&dates=3e68a0&stroke=1f4e96&locale=pt_BR" alt="Sequência de contribuições">
+</p>
+
+### 🛠️ Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-040914?style=for-the-badge&logo=nodedotjs&logoColor=4da3ff">
+  <img src="https://img.shields.io/badge/Express-040914?style=for-the-badge&logo=express&logoColor=4da3ff">
+  <img src="https://img.shields.io/badge/JWT-040914?style=for-the-badge&logo=jsonwebtokens&logoColor=4da3ff">
+  <img src="https://img.shields.io/badge/MySQL-040914?style=for-the-badge&logo=mysql&logoColor=4da3ff">
+  <img src="https://img.shields.io/badge/MongoDB-040914?style=for-the-badge&logo=mongodb&logoColor=4da3ff">
+  <img src="https://img.shields.io/badge/Next.js-040914?style=for-the-badge&logo=nextdotjs&logoColor=4da3ff">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-040914?style=for-the-badge&logo=tailwindcss&logoColor=4da3ff">
 </p>
