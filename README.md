@@ -1,6 +1,10 @@
+<h1 align="center">Giovanni Buscarino Benedetti</h1>
+
 <p align="center">
-  <img src="assets/terminal.gif" alt="Giovanni Benedetti — Desenvolvedor Full Stack Jr. | Estudante de Cyber Security" width="100%">
+  Junior Full Stack Developer with a degree in Systems Development and a Cybersecurity student.<br>
+  I enjoy building modern, efficient and, above all, secure solutions.
 </p>
+<br/>
 
 <p align="center">
   <a href="https://giovannibenedetti.tech">
